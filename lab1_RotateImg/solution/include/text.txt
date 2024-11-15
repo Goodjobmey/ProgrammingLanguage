@@ -1,0 +1,2 @@
+gcc solution/src/main.c solution/src/bmp.c solution/src/rotate.c -o image-transformer
+./image-transformer C:\Users\kuzmi\VCProjects\assignment-image-rotation-master\tester\tests\1\input.bmp output.bmp
